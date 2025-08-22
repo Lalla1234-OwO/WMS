@@ -1,9 +1,9 @@
 # WMS
 โปรแกรมจัดการคลังสินค้าสำหรับยาและเวทยช
 
-<<<<<<< HEAD
+HEAD
 
 see
-=======
+
 nem nem nem nem
->>>>>>> upstream/main
+ upstream/main
